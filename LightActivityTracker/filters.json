@@ -1,0 +1,8 @@
+﻿[
+  {
+    "ProcessRegEx": "firefox",
+    "TitleRegEx": ".*Private Browsing.*",
+    "RedactedProcess": "firefox",
+    "RedactedTitle": "incognito"
+  }
+]
